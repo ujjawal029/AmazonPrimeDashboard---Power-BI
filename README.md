@@ -14,15 +14,18 @@ Power Query — data cleaning and transformation
 The report is a single-page dashboard with:
 
 KPI summary cards — total titles, ratings, genres, directors, and catalog date range
+
 Total Shows by Country — filled map showing global content distribution
+
 Movies and TV Shows — donut chart of content type split
+
 Total Shows by Release Year — area chart tracking output over time, split by type
+
 Genres by Total Shows — bar chart of genre distribution
+
 Ratings by Total Shows — bar chart of content ratings breakdown
 
 
-📂 Files
-AmazonPrimeDashboard.pbix — the full Power BI report file
 🚀 How to Use
 Download AmazonPrimeDashboard.pbix
 Open in Power BI Desktop
